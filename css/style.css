@@ -51,6 +51,7 @@ body {
     position: absolute;
     bottom: -32px;
     cursor: pointer;
+    transition: 0.5s;
 }
 
 .advice__dice img {
